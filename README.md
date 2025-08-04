@@ -10,9 +10,9 @@
 
 ## 💫 About Me:
 
-- 🎯 I'm a **Full-Stack Developer** with a foundation in **C++**, and I love building modern web apps using frameworks like **React**, **Node.js**, **Angular**.  
+- 🎯 I'm a **Full-Stack Developer** with a foundation in **C++**, and I love building modern web apps using frameworks like **React**, **Node.js**.  
 - 💼 Currently a **Development Intern at BandiWala**.  
-- 🚀 Creator of projects like **Blood Bridge (Angular)** and **Bandi-Wala-web**.  
+- 🚀 Creator of projects like **Blood Donation** and **Bandi-Wala-web**.  
 - 🤝 Collaborative, curious, and always exploring **AI-driven innovations**.
 
 ---
